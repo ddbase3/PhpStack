@@ -1,0 +1,10 @@
+{
+  "dompdf": {
+    "version": "3.1.6",
+    "distribution": "packaged-release",
+    "source": "https://github.com/dompdf/dompdf/releases/download/v3.1.6/dompdf-3.1.6.zip",
+    "sha256": "05df8ee4907325ed2e09a139de9784325f761b43a049297155499270163ac94d",
+    "license": "LGPL-2.1",
+    "autoload": "lib/dompdf/autoload.inc.php"
+  }
+}
