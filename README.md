@@ -104,3 +104,8 @@ PhpStack does not define reporting contracts and does not know about IliasReport
 Additional PHP libraries may be added under `lib/<library>/` and documented in `libraries.json` when there is a concrete use case.
 
 Automatic installation or update handling is deliberately not part of the current design. If that becomes necessary later, it should be designed as a deployment concern rather than runtime behavior.
+
+## Documentation
+
+- [Frequently Asked Questions](docs/faq.md)
+- [Privacy and data processing](PRIVACY.md)
