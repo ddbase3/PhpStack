@@ -1,0 +1,19 @@
+{
+	"manifestVersion": 1,
+	"name": "PhpStack",
+	"namespace": "PhpStack",
+	"version": "4.0.0",
+	"description": "Server-side library bundle infrastructure for shared third-party PHP runtime libraries in BASE3.",
+	"license": "GPL-3.0-or-later",
+	"maintainers": [
+		{
+			"name": "Daniel Dahme",
+			"url": "https://www.base3.de",
+			"email": "info@base3.de"
+		}
+	],
+	"repository": "https://github.com/ddbase3/PhpStack",
+	"dependencies": {
+		"Base3Framework": ">=4.10.0"
+	}
+}
