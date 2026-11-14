@@ -11,11 +11,11 @@
  * https://www.gnu.org/licenses/gpl-3.0.en.html
  **********************************************************************/
 
-namespace PhpStack;
+namespace Base3\PhpStack;
 
-use Base3\Api\ICheck;
-use Base3\Api\IContainer;
-use Base3\Api\IPlugin;
+use Base3\CoreFoundation\Api\ICheck;
+use Base3\CoreFoundation\Api\IContainer;
+use Base3\CoreFoundation\Api\IPlugin;
 use Dompdf\Dompdf;
 
 final class PhpStackPlugin implements IPlugin, ICheck {

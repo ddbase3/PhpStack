@@ -1,7 +1,7 @@
 {
 	"manifestVersion": 1,
 	"name": "PhpStack",
-	"namespace": "PhpStack",
+	"namespace": "Base3\\PhpStack",
 	"version": "4.0.0",
 	"description": "Server-side library bundle infrastructure for shared third-party PHP runtime libraries in BASE3.",
 	"license": "GPL-3.0-or-later",
@@ -14,6 +14,6 @@
 	],
 	"repository": "https://github.com/ddbase3/PhpStack",
 	"dependencies": {
-		"Base3Framework": ">=4.10.0"
+		"CoreFoundation": ">=4.10.0"
 	}
 }
